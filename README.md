@@ -7,9 +7,10 @@ Each ".oap" file can be downloaded and inspected further in Outsystems Service S
 
 IMPORTANT: This apps are the result of guided training guides that can be found at "https://www.outsystems.com/low-code-training/JourneyView?GUID=160a375d-789e-45af-abd8-1365f3b814a2".
 
-Planning and defining app requirements;
-UI/UX design (tables, inputs, actions, front-end logic);
-Data model creation and implementation;
-Database creation along with required entities and attributes;
-Client and Server action development and implementation;
-Experimenting with Service Studio 11 capabilities, elements and features.
+<p>What was done and achieved?</p>
+<p>Planning and defining app requirements;<br>
+UI/UX design (tables, inputs, actions, front-end logic);<br>
+Data model creation and implementation;<br>
+Database creation along with required entities and attributes;<br>
+Client and Server action development and implementation;<br>
+Experimenting with Service Studio 11 capabilities, elements and features.</p>
